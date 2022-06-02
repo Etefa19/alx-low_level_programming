@@ -1,4 +1,4 @@
-#include <studio.h>
+#!/bin/bash
 
 /**
  * main -Entery point
@@ -10,6 +10,7 @@ int main(void)
     return (0);
 }
 fi
+
 # 2 "main.c" 2
 
 
