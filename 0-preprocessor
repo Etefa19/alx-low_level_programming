@@ -1,0 +1,20 @@
+#include <studio.h>
+
+/**
+ * main -Entery point
+ *
+ * return: always 0 (Success)
+ */
+int main(void)
+{
+    return (0);
+}
+fi
+# 2 "main.c" 2
+
+
+# 3 "main.c"
+int main(void)
+{
+ return (0);
+}
